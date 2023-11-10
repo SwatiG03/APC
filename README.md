@@ -1,2 +1,2 @@
 # APC
-<br>Arbitrary Pricision calculator.</br>;
+<br>Arbitrary Pricision calculator.</br>
